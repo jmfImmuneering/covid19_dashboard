@@ -1,5 +1,8 @@
 # covid19_dashboard
+
 Wrangling covid19 data into data visuals
+
+[Click here to see current test version of the dashboard](https://tinyurl.com/quvcaqn)
 
 So far this just pulls the data from the Johns Hopkins initiative and does some basic graphing and comparisons. As a result, this data cannot be used for commercial purposes (my company is in my github name, but this is not a commercial endeavor or related to Immuneering in any way). Particularly interesting to me in this is that I like to understand a bit about time-resolved data, and the flat display of other dashboards doesn't really communicate that. 
 
