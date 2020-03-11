@@ -1,7 +1,7 @@
 # covid19_dashboard
 wrangling visuals for covid19 data display
 
-So far this just pulls the data from the Johns Hopkins initiative and does some basic graphing and comparisons. As a result, this data cannot be used for commercial purposed (my company is in my github name, but this isn't a commercial endeavor). Particularly interesting to me in this is that I like to understand a bit about time-resolved data, and the flat display of other dashboards. 
+So far this just pulls the data from the Johns Hopkins initiative and does some basic graphing and comparisons. As a result, this data cannot be used for commercial purposed (my company is in my github name, but this isn't a commercial endeavor). Particularly interesting to me in this is that I like to understand a bit about time-resolved data, and the flat display of other dashboards doesn't really communicate that. 
 
 # TODOS
 I can think of a few features that should be added.
